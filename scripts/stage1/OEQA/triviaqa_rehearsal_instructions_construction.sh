@@ -1,0 +1,1 @@
+PYTHONPATH=. python data_process/instructions_construction/triviaqa_rehearsal_instructions.py

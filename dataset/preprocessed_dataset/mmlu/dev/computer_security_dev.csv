@@ -1,0 +1,6 @@
+id,lang,question,A,B,C,D,target
+computer_security/dev/0,en,SHA-1 has a message digest of,160 bits,512 bits,628 bits,820 bits,A
+computer_security/dev/1,en,"_____________ can modify data on your system – so that your system doesn’t run correctly or you can no longer access specific data, or it may even ask for ransom in order to give your access.",IM – Trojans,Backdoor Trojans,Trojan-Downloader,Ransom Trojan,D
+computer_security/dev/2,en,What is ethical hacking?,"""Hacking"" ethics so they justify unintended selfish behavior","Hacking systems (e.g., during penetration testing) to expose vulnerabilities so they can be fixed, rather than exploited",Hacking into systems run by those whose ethics you disagree with,"A slang term for rapid software development, e.g., as part of hackathons",B
+computer_security/dev/3,en,Exploitation of the Heartbleed bug permits,overwriting cryptographic keys in memory,a kind of code injection,a read outside bounds of a buffer,a format string attack,C
+computer_security/dev/4,en,The ____________ is anything which your search engine cannot search.,Haunted web,World Wide Web,Surface web,Deep Web,D
